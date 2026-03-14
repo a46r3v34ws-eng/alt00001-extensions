@@ -1,0 +1,15 @@
+/* :( */
+@font-face {font-family: Pusab; src: url('https://gdcolon.com/assets/Pusab.ttf')}
+@font-face {font-family: Franks; src: url('https://a46r3v34ws-eng.github.io/obj/fonts/Franks.ttf')}
+
+body {
+  background-image: url("https://a46r3v34ws-eng.github.io/obj/bgwebsite.png");
+}
+
+.pusab {
+  font-family: "Pusab", serif;
+}
+
+.franks {
+  font-family: "Franks", serif;
+}
